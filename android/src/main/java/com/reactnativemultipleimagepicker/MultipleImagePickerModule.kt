@@ -1,4 +1,4 @@
-ppackage com.reactnativemultipleimagepicker
+package com.reactnativemultipleimagepicker
 
 import android.annotation.SuppressLint
 import android.content.Context
